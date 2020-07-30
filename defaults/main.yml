@@ -1,2 +1,5 @@
 ---
-# defaults file for template
+
+composer_url: https://getcomposer.org/download/1.10.9/composer.phar
+composer_executable: /usr/local/bin/composer
+composer_checksum: sha256:70d6b9c3e0774b398a372dcb7f89dfe22fc25884e6e09ebf277286dd64cfaf35
