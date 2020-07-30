@@ -28,4 +28,5 @@ galaxy_info:
     - composer
     - php
 
-dependencies: []
+dependencies:
+  - hspaans.php
