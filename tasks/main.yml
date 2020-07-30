@@ -1,2 +1,10 @@
 ---
-# tasks file for template
+- name: Install Composer
+  become: true
+  get_url:
+    url: "{{ composer_url }}"
+    dest: "{{ composer_executable }}"
+    mode: 0755
+    checksum: "{{ composer_checksum }}"
+    group: root
+    owner: root
