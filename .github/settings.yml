@@ -1,0 +1,5 @@
+---
+repository:
+  description: Ansible Role for installing PHP Composer
+  topics: ansible, ansible-role, php, composer
+  
