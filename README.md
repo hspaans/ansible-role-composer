@@ -23,7 +23,7 @@ Example Playbook
 
     - hosts: servers
       roles:
-         - { role: hspaans.composer, become: true }
+        - { role: hspaans.composer, become: true }
 
 License
 -------
