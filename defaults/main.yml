@@ -1,5 +1,5 @@
 ---
-
+composer_package: []
 composer_url: https://github.com/composer/composer/releases/download/1.10.10/composer.phar
 composer_executable: /usr/local/bin/composer
 composer_checksum: sha256:8f16aa77b1236ed40855d8d141c0a939d108a939c8e73f9f32eadd3f05f181b9
